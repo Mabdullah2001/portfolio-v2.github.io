@@ -15,8 +15,7 @@ body{
 }
 
 .about-section{
-    /* background: url(https://fadzrinmadu.github.io/hosted-assets/responsive-about-us-section-using-html/pic.jpg) no-repeat left;
-    background-size: cover; */
+  
     background: linear-gradient(to right, #ea1d6f 0%, #eb466b 100%);
     background-color: #fdfdfd;
     overflow: hidden;
